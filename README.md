@@ -1,1 +1,6 @@
-# qaGuru_REST-API_Models-Specifications
+# REST API. Модели. Спецификации. Allure.
+
+## Домашнее задание:
+
+- Доработать автотесты на reqres.in с allure-отчетом, моделями и спецификациями
+- Сделать сборку в Jenkins
